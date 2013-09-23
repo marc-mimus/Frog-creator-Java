@@ -11,11 +11,11 @@ Se que je voulais faire mais que je n'est pas fait
 Erreur de ma par car je suis sur que avec un vrai systeme de packet par class, cela aurai été beaucoups plus poussé.
 - Créer une nouvelle gestion des clients sur le serveur.
 - Ajouté les sort.
-_________________
+=================
 
 Pourquoi j'ai arrêté se projet:
 J'ai arrêté se projet car il ne me plaisait plus, je ne peu pas prendre plaisir a développer quelque chose s'il ne me plait pas.
-_________________
+=================
 
 Mon avenir ?
 Si vous voulez je fait d'autre test dans d'autre langage de prog, mais je reste dans l'idée de recréer un moteur de base en java.
